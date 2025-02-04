@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThatWoix. The Owner and Founder of Third Eye Nation studios.
 - 👀 I’m interested in Original Music and Film Production, SEO, Web-Development, AI Agent Development, Cryptocurrency & Financial Markets, Digital Marketing, Social Media Management, as well as Community Development and Talent Acquisition. 
-- 🌱 I’m currently working on Agent Zero, an open source project that competes with the best of AI frameworks such as OpenAI's new release.  
+- 🌱 I’m currently working on Agent Zero, an open source project that competes with the best of AI frameworks such as OpenAI's new "operator" release. I am also currently using Agent Zero to develop The Agency System (foud in my repo list). 
 - 💞️ I’m looking to collaborate on the building and development of fully functional AI Agent Team UI for the everyday person. My goal is to have a completed team of AI agents that can execute commands of all kinds, allowing for users to get everything they need from one source.
 - 📫 For those who are interested in joining this journey and possibly finding a position with Third Eye Nation, please send all inquiries to connect@thirdeyenation.ca .
 - 😄 Pronouns: He/Him
